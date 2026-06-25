@@ -1,14 +1,14 @@
 # Prova AV2 - Laboratorio de Programacao III
 
-**Aluno:** Pedro Henrique Rodrigues da Silva  
-**E-mail:** phelohim@gmail.com  
+**Aluno:** Pedro Henrique Rodrigues da Silva & Pedro Henrique Quarentani
+**E-mail:** phelohim@gmail.com  // pedroquarentani@gmail.com
 **Professor:** Jefferson Passerini
 
 ## Projeto
 
 O projeto principal esta em:
 
-**`trabalho_labde/livraria`**
+**`laboratoriodeprogramacao3`**
 
 Abra essa pasta no Apache NetBeans como projeto Maven (Java Web).
 
